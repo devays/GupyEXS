@@ -1,0 +1,5 @@
+O carro percorre os 50 km até o ponto de encontro em aproximadamente 27,3 minutos (50 km / 110 km/h * 60 min/h). Como possui tag de pedágio, não precisa parar nos pedágios.
+
+Já o caminhão percorre os mesmos 50 km em aproximadamente 37,5 minutos (50 km / 80 km/h * 60 min/h) mais 10 minutos para passar pelos dois pedágios (5 minutos em cada). Portanto, o caminhão leva um total de 47,5 minutos para chegar ao ponto de encontro.
+
+Assim, quando ocorrer o encontro, o carro estará mais próximo de Ribeirão Preto.
